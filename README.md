@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Prodip</h1>
-<h3 align="center">Full Stack Web Developer | Problem Solver | Product Management Enthusiast</h3>
+<h3 align="center">Software Engineer | Problem Solver</h3>
 
 <p align="center">
   <a href="https://prodip-sarker.netlify.app" target="_blank">
