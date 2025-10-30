@@ -13,16 +13,12 @@
   </a>
 </p>
 
----
-
 ### 🧠 About Me  
 - 💻 Full Stack Developer skilled in **JavaScript, TypeScript, React, Next.js, Vue.js, Express.js, SQL, and NoSQL**  
 - 🧩 Strong background in **problem solving and OOP** — former competitive programmer  
 - ⚙️ Interested in **product design, architecture, and backend optimization**  
 - 🌱 Currently learning **system design & advanced full stack patterns**  
 - 🚀 Passionate about writing clean, efficient, and scalable code  
-
----
 
 ### 🛠️ Tech Stack  
 
@@ -45,8 +41,6 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
 ### 📊 GitHub Insights  
 
 <p align="center">
@@ -56,17 +50,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsprodip&layout=compact&theme=react&hide_border=true" height="140" alt="Top Languages" />
-</p>
-
----
-
-### ✨ Quote I Live By  
-> “Code. Learn. Improve. Repeat.”
-
----
-
-<p align="center">  
-  💼 Open to collaborating on exciting projects or product-focused teams.  
-  <br/>
-  📫 Reach me at **yourmail@gmail.com**  
 </p>
