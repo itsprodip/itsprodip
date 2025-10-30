@@ -13,8 +13,7 @@
   </a>
 </p>
 
-### 🧠 About Me  
-- 💻 Full Stack Developer skilled in **JavaScript, TypeScript, React, Next.js, Vue.js, Express.js, SQL, and NoSQL**  
+### 🧠 About Me   
 - 🧩 Strong background in **problem solving and OOP** — former competitive programmer  
 - ⚙️ Interested in **product design, architecture, and backend optimization**  
 - 🌱 Currently learning **system design & advanced full stack patterns**  
